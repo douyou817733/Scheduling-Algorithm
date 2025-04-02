@@ -1,1 +1,1 @@
-# Scheduling-Algorithm
+Just run demo.m
